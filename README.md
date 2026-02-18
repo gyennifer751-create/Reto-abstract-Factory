@@ -1,7 +1,5 @@
 # Reto-abstract-Factory
 
-¡Bienvenido al reto de Patrones de Diseño! 
-
 ### El Escenario
 Debes implementar un sistema de UI que soporte **Windows** y **MacOS**. El código cliente ya está configurado en `Application.java`, pero actualmente no funciona porque las fábricas y los productos están vacíos.
 
